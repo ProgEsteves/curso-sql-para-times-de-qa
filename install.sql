@@ -1,0 +1,15 @@
+\i ./sql/schema.sql
+\i ./sql/genres.sql
+\i ./sql/aka_names.sql
+\i ./sql/aka_titles.sql
+\i ./sql/keywords.sql
+\i ./sql/locations.sql
+\i ./sql/languages.sql
+\i ./sql/countries.sql
+\i ./sql/actors.sql
+\i ./sql/acted_in.sql
+\i ./sql/series.sql
+\i ./sql/movies_keywords.sql
+\i ./sql/movies_genres.sql
+\i ./sql/movies_languages.sql
+\i ./sql/movies.sql
